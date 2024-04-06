@@ -1,0 +1,5 @@
+ckpt.pth
+wandb
+# results
+checkpoints
+videos.p
